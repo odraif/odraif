@@ -1,10 +1,4 @@
 - 👋 Hi, I’m @odraif
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Reactjs
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-odraif/odraif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently learning web development 
+- 📫 How to reach me on otmandraif@gmail.com or +212644930437 
