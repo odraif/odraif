@@ -18,7 +18,7 @@ I am a passionate learner currently diving deep into the world of web developmen
 Right now, I am focusing on:
 - [ ] Mastering Responsive Web Design
 - [ ] Deepening my knowledge of JavaScript (ES6+)
-- [ ] Exploring Frontend Frameworks (like React or Vue)
+- [ ] Exploring Frontend Frameworks Vuejs and nuxtjs
 
 ---
 
@@ -32,6 +32,5 @@ I'm always open to collaborating on open-source projects or just chatting about 
 
 * 📧 **Email:** [otmandraif@gmail.com](mailto:otmandraif@gmail.com)
 * 📱 **WhatsApp/Phone:** +212 644-930437
-* 💼 **LinkedIn:** [Your Profile Link Here]
 
 ---
