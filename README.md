@@ -22,11 +22,6 @@ Right now, I am focusing on:
 
 ---
 
-### 📈 My Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=odraif&show_icons=true&theme=radical)
-
----
-
 ### 📫 Let's Connect!
 I'm always open to collaborating on open-source projects or just chatting about tech.
 
