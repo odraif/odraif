@@ -14,11 +14,12 @@ Passionate about building performant web applications, desktop solutions, and li
 
 ---
 
-### 🧪 Active Projects & Experiments
-* **[phpgo](https://github.com/odraif)** — An open-source hybrid kernel bridging PHP execution with a Go runtime core.
-* **[QistApp](https://github.com/odraif)** — Cross-platform financial management and expense tracking app (Quasar, Vue 3, Laravel).
-* **[ovir](https://github.com/odraif)** — Desktop application for managing bank transfer orders built with NativePHP and Electron.
-* **[RaviLog](https://github.com/odraif)** — Lightweight fleet fuel metrics and odometer logging tool.
+### 🧪 Key Projects & Architecture
+
+* **phpgo** — An open-source hybrid kernel bridging PHP execution with a Go runtime core.
+* **QistApp** — Cross-platform financial management and expense tracking app (Quasar, Vue 3, Laravel).
+* **ovir** — Desktop application for managing bank transfer orders built with NativePHP & Electron.
+* **RaviLog** — Lightweight fleet fuel metrics and odometer logging engine.
 
 ---
 
